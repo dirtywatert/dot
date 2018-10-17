@@ -6,3 +6,5 @@ vim
 
 aTNm3fXZX7Gz
 
+jq
+git
