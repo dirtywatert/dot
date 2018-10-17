@@ -8,3 +8,4 @@ aTNm3fXZX7Gz
 
 jq
 git
+mutt
